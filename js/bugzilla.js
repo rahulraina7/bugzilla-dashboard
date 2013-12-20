@@ -1,6 +1,6 @@
 var Bugzilla = {
   BASE_URL: "https://api-dev.bugzilla.mozilla.org/latest",
-  BASE_UI_URL: "https://bugzilla.mozilla.org",
+  BASE_UI_URL: "https://blrbugzilla.yodlee.com/",
   DEFAULT_OPTIONS: {
     method: "GET"
   },
